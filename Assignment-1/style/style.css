@@ -1,0 +1,278 @@
+.nav-banner {
+    display: flex;
+    margin: 0px auto;
+    max-width: 1270px;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header>nav>h3 {
+    color: rgb(14, 14, 14);
+    font-family: Fira Sans;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+header>nav>a {
+    text-decoration: none;
+    border: 1px solid rgb(0, 106, 80);
+    border-radius: 6px;
+    padding: 11px 23px 11px 23px;
+    color: rgb(0, 106, 80);
+    font-family: Fira Sans;
+    font-size: 13px;
+    font-weight: 600;
+
+}
+
+.heading-banner {
+    background-color: rgb(198, 228, 214);
+    border-radius: 18px;
+    height: 450px;
+    max-width: 1270px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 30px;
+}
+
+
+.banner-name {
+    color: rgba(14, 14, 14, 0.5);
+    font-family: Fira Sans;
+    font-size: 18px;
+    font-weight: 500;
+    text-align: left;
+    padding-top: 60px;
+    padding-left: 45px;
+}
+
+.banner-title {
+    color: rgb(14, 14, 14);
+    font-family: Fira Sans;
+    font-size: 42px;
+    font-weight: 700;
+    padding-left: 45px;
+    margin-top: 0px;
+    margin-bottom: 15px;
+
+}
+
+.banner-button {
+    color: rgb(255, 255, 255);
+    font-family: Fira Sans;
+    font-size: 13px;
+    font-weight: 600;
+    text-decoration: none;
+    border-radius: 6px;
+    background-color: rgb(0, 106, 80);
+    border: none;
+    margin: 10px 45px;
+    height: 40px;
+    width: 210px;
+    cursor: pointer;
+
+}
+
+.banner-image {
+    padding-top: 60px;
+
+}
+
+
+
+.heading-title {
+    margin: 20px auto;
+    max-width: 1270px;
+    width: 100%;
+    text-align: left;
+    color: rgb(14, 14, 14);
+    font-family: Fira Sans;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.second-part {
+    display: flex;
+    margin: 0px auto;
+    max-width: 1270px;
+    width: 100%;
+    justify-content: space-between;
+    gap: 25px;
+
+}
+
+.pillar {
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 12px;
+    background-color: whitesmoke;
+}
+
+.image {
+    padding-left: 16px;
+    padding-top: 16px;
+    height: 50px;
+    width: 50px;
+}
+
+.heading {
+    margin-left: 16px;
+    color: rgba(14, 14, 14, 0.8);
+    font-family: Fira Sans;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.des {
+    padding-left: 16px;
+    color: rgba(14, 14, 14, 0.7);
+    font-family: Fira Sans;
+    font-size: 13px;
+    font-weight: 400;
+    text-align: left;
+    margin-bottom: 50px;
+}
+
+section {
+    margin: 60px;
+
+}
+
+.third {
+    margin: 0px auto;
+    max-width: 1270px;
+    width: 100%;
+}
+
+.des3 {
+    color: rgba(14, 14, 14, 0.7);
+    font-family: Fira Sans;
+    font-size: 13px;
+    font-weight: 400;
+    text-align: left;
+    margin-bottom: 30px;
+
+}
+
+.third1 {
+    margin: 0px auto;
+    max-width: 1270px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    gap: 25px;
+    height: 280px;
+    margin-bottom: 30px;
+
+}
+
+
+
+
+.first-one {
+    border-radius: 12px;
+    background: rgba(84, 144, 245, 0.2);
+
+}
+
+.first-two {
+    border-radius: 12px;
+    background: rgb(198, 228, 214);
+}
+
+.first-three {
+    border-radius: 12px;
+    background: rgb(247, 235, 207);
+}
+
+.learn-more1 {
+    text-decoration: none;
+    border-radius: 6px;
+    background-color: rgb(84, 144, 245);
+    color: rgb(255, 255, 255);
+    font-family: Fira Sans;
+    font-size: 13px;
+    padding: 11px 23px 11px 23px;
+    font-weight: 600;
+    margin-left: 16px;
+}
+
+.learn-more2 {
+    text-decoration: none;
+    border-radius: 6px;
+    padding: 11px 23px 11px 23px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(9, 161, 92);
+    font-family: Fira Sans;
+    font-size: 13px;
+    font-weight: 600;
+    margin-left: 16px;
+
+
+}
+
+.learn-more3 {
+
+
+
+    text-decoration: none;
+    border-radius: 6px;
+    padding: 11px 23px 11px 23px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 194, 57);
+    font-family: Fira Sans;
+    font-size: 13px;
+    font-weight: 600;
+    margin-left: 16px;
+
+
+
+}
+
+.qoute {
+    height: 168px;
+    background-color: whitesmoke;
+    border-radius: 6px;
+    margin: 0px auto;
+    max-width: 1270px;
+    width: 100%;
+    background-image: url('../assets/quote-bg.png');
+    background-repeat: no-repeat;
+
+
+}
+
+.said-p {
+    padding-top: 30px;
+    padding-left: 16px;
+    color: rgba(14, 14, 14, 0.7);
+    font-family: Fira Sans;
+    font-size: 13px;
+    font-weight: 400;
+    text-align: left;
+    margin: 8px;
+}
+
+.said-h {
+    color: rgba(14, 14, 14, 0.8);
+    font-family: Fira Sans;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 24px;
+    padding-left: 16px;
+    margin: 3px;
+    
+}
+
+.said-pp {
+    padding-left: 16px;
+    padding-top: 0px;
+    color: rgba(14, 14, 14, 0.7);
+    font-family: Fira Sans;
+    font-size: 13px;
+    font-weight: 400;
+    text-align: left;
+    margin: 3px;
+
+}
